@@ -16,13 +16,16 @@
     width:100vw;
     height:100vh;
     color: var(--colorLight2);
-    background-image: linear-gradient(160deg, #112d4e 0%, #3f72af 100%);;
+     background-image: linear-gradient(160deg, #146666 0%, #0c3f4c 100%); 
+   
+
 }
 
 h1 {
     text-align: center;
     text-transform:uppercase;
     padding-top: 20px;
+    color: #112D4E;
 }
 
 .tab-container {
@@ -32,6 +35,7 @@ h1 {
     margin-top: 4rem;
     display: flex;
     justify-content: space-between;
+   
 }
 
 .tab{
